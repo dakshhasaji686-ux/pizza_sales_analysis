@@ -2,7 +2,7 @@
 
 This project analyzes a pizza sales dataset to discover useful insights about customer ordering patterns, product performance, and overall sales trends. The goal of this analysis is to understand which pizzas sell the most, when customers place the most orders, and how factors like pizza size, category, and month affect total revenue.
 
-The analysis was performed using **Python in Jupyter Notebook**, focusing on data exploration and generating business insights.
+The analysis was performed using **Python in google colab**
 
 ---
 
